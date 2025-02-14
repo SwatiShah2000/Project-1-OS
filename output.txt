@@ -1,2 +1,0 @@
-DEBUG: Process started
-This is a user process with PID: 1497754
